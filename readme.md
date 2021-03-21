@@ -1,2 +1,2 @@
-## Scrolling Text
-![](app/src/main/res/drawable/tasks.gif)
+## Scrolling Text Homework
+![](app/src/main/res/drawable/homework.gif)
